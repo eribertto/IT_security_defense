@@ -1,5 +1,18 @@
 --
 
+--
+sept. 2/21
+✔ passed graded assessment test week 2 @done(21-09-02 20:02)
+✔ done: do graded qwiklab test create/inspect key pair with openSSL @done(21-09-02 20:26)
+commands issued: Hands on with Hashing
+	echo 'This is some text in a file, just so we have some data' > file.txt
+	md5sum file.txt > file.txt.md5
+	md5sum -c file.txt.md5 # output: file.txt: OK
+
+update:
+	✔ finish the 2 graded qwiklabs hands-on test @done(21-09-02 20:43)
+
+
 
 
 --

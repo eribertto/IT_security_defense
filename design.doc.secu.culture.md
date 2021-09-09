@@ -51,3 +51,32 @@ Application policy recommendations
 Security and privacy policy recommendations
 
 Intrusion detection or prevention for systems containing customer data
+
+Answer:
+
+Correct
+Thank you for your submission!
+
+A great submission should include:
+
+Two authentication system requirements, like Security Key-based multifactor or OTP-based multifactor, and some kind of centralized authentication system (e.g., LDAP or Active Directory).
+
+A description of HTTPS.
+
+Recommendation for both a VPN service and a reverse proxy solution.
+
+A description of two or more types of firewall services (e.g., implicit deny rule, remote access, websites).
+
+Requirement for 802.1X. 
+
+A description of four VLAN requirements, including Engineering VLAN, Sales VLAN, Infrastructure VLAN, and Guest VLAN.
+
+Three laptop security requirements, including FDE recommendations, antivirus recommendation, and a binary whitelisting recommendation.
+
+Requirement for a software update requirement policy and a requirement for restrictions on the types of applications permitted.
+
+Recommendations for rules protecting access to user data and for rules protecting the storage of user data. 
+
+A description of four of the following security policy recommendations: passwords requiring a minimum of 8 characters; passwords requiring special characters; requiring periodic password changes > 6 months; and some form of mandatory security training for users. 
+
+A requirement for a NIPS/NIDS on the network for customer data and a requirement for HIPS/HIDS on systems containing customer data.
